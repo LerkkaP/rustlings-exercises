@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-strings4
+hashmaps3
 
 intro1
 intro2
@@ -36,3 +36,6 @@ enums3
 strings1
 strings2
 strings3
+strings4
+hashmaps1
+hashmaps2
